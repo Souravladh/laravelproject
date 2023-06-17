@@ -1,0 +1,43 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+nav
+{
+	background-color: lightskyblue;
+	width: 100%;
+	height: 70px;
+}
+ul
+{
+	float:right;
+	margin-right: 40px;
+	line-height: 70px;
+}
+ul li 
+{
+	display: inline-block;
+}
+ul li a 
+{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+.logo 
+{
+	line-height: 70px;
+	font-weight: bold;
+	font-size: 18px;
+	left :7%;
+	position:relative;
+}
+.blog 
+{
+	padding-top: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	position: relative;
+	padding-bottom: 5%;
+}
